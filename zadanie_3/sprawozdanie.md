@@ -14,11 +14,14 @@ Link do projektu w Jira: [Jira](https://polzwrottransex.atlassian.net/jira/softw
 
 ### 1.4 Infrastruktura chmurowa i DevOps (Cloud Platform & DevOps)
 
+![Cloud_US1](./images/cloud_story_1.png)
+![Cloud_US2](./images/cloud_story_2.png)
+
 ### 1.5 Moduł rozliczeń i fakturowania (Billing & Settlement Engine)
 
 ## 2. Oś czasu
 
-![Timeline](./timeline.png)
+![Timeline](./images/timeline.png)
 
 ## 1. Cel Sprintu
 
@@ -26,7 +29,7 @@ Wynikiem sprintu będzie PoC. Dla 150 testowych zgłoszeń z Krakowa i powiatu k
 
 ## 2. Backlog Sprintu
 
-![Sprint1](./sprint_1.png)
+![Sprint1](./images/sprint_1.png)
 
 ## 3. Definition of Dome
 
