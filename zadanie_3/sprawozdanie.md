@@ -2,26 +2,28 @@
 
 Link do projektu w Jira: [Jira](https://polzwrottransex.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog)
 
-# B. Planowanie Sprint 1
-
 ## 1. Tworzenie Backlogu Produktu
 
-### 1.1 Moduł optymalizacji tras i zarządzania flotą (Route & Fleet Management)
+#### 1.1 Moduł optymalizacji tras i zarządzania flotą (Route & Fleet Management)
 
-### 1.2 Portal samoobsługowy partnera (Partner Self-Service Portal)
+#### 1.2 Portal samoobsługowy partnera (Partner Self-Service Portal)
 
-### 1.3 Platforma integracyjna dla klientów korporacyjnych (Enterprise Integration Platform)
+#### 1.3 Platforma integracyjna dla klientów korporacyjnych (Enterprise Integration Platform)
 
-### 1.4 Infrastruktura chmurowa i DevOps (Cloud Platform & DevOps)
+#### 1.4 Infrastruktura chmurowa i DevOps (Cloud Platform & DevOps)
 
 ![Cloud_US1](./images/cloud_story_1.png)
 ![Cloud_US2](./images/cloud_story_2.png)
 
-### 1.5 Moduł rozliczeń i fakturowania (Billing & Settlement Engine)
+#### 1.5 Moduł rozliczeń i fakturowania (Billing & Settlement Engine)
 
 ## 2. Oś czasu
 
 ![Timeline](./images/timeline.png)
+
+---
+
+# B. Planowanie Sprint 1
 
 ## 1. Cel Sprintu
 
