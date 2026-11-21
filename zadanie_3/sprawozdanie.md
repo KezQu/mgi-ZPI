@@ -6,9 +6,18 @@ Link do projektu w Jira: [Jira](https://polzwrottransex.atlassian.net/jira/softw
 
 #### 1.1 Moduł optymalizacji tras i zarządzania flotą (Route & Fleet Management)
 
+![Routes_US1](./images/routes_story_1.png)
+![Routes_US2](./images/routes_story_2.png)
+
 #### 1.2 Portal samoobsługowy partnera (Partner Self-Service Portal)
 
+![Portal_US1](./images/portal_story_1.png)
+![Portal_US2](./images/portal_story_2.png)
+
 #### 1.3 Platforma integracyjna dla klientów korporacyjnych (Enterprise Integration Platform)
+
+![Enterprise_US1](./images/enterprise_story_1.png)
+![Enterprise_US2](./images/enterprise_story_2.png)
 
 #### 1.4 Infrastruktura chmurowa i DevOps (Cloud Platform & DevOps)
 
@@ -16,6 +25,13 @@ Link do projektu w Jira: [Jira](https://polzwrottransex.atlassian.net/jira/softw
 ![Cloud_US2](./images/cloud_story_2.png)
 
 #### 1.5 Moduł rozliczeń i fakturowania (Billing & Settlement Engine)
+
+![Faktury_US1](./images/fakturki_story_1.png)
+![Faktury_US2](./images/fakturki_story_2.png)
+
+#### Backlog
+
+![BAcklog](./images/backlog.png)
 
 ## 2. Oś czasu
 
