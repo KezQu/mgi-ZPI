@@ -5,7 +5,7 @@ _Przedmiot: Zarządzanie projektem informatycznym_
 
 ## 1. Wizja
 
-> „Żaden worek z kaucją nie czeka na zapleczu dłużej niż 3 dni.”
+> „Każde opakowanie kaucyjne nie czeka na zapleczu i wraca do obiegu z korzyścią dla lokalu i dla środowiska.”
 
 ## 2. Problem
 
@@ -19,13 +19,19 @@ System ma na celu zwiększenie odsetku opakowań poddawanych recyklingowi. Uspra
 
 ## 3. Główny cel SMART
 
-W ciągu 6 miesięcy od uruchomienia wersji MVP, obsługa 500 lokali na terenie Krakowa i powiatu krakowskiego. Wpłynie to pozytywnie na obieg opakowań w systemie kaucyjnym, co przełoży się na brak zalegania surowca na zapleczach. Nawiązanie wspołpracy z dużą siecią sklepów w celu dalszej ekspansji na kolejne województwa.
+W ciągu 6 miesięcy od uruchomienia wersji MVP objęcie usługą odbioru opakowań kaucyjnych 500 lokali na terenie Krakowa i powiatu krakowskiego, w tym co najmniej 50 placówek należących do jednej dużej sieci sklepów, z którą zostanie podpisana umowa o współpracy. Przełoży się to na odbiór co najmniej 300 000 opakowań i ograniczenie zalegania surowca na zapleczach, a referencja od dużej sieci sklepów stanie się podstawą do ekspansji na kolejne województwa.
+
+### Definicje pojęć
+
+- **Duży sklep** – sklep o powierzchni sprzedaży powyżej 200 m². Próg wynika z ustawy o gospodarce opakowaniami i odpadami opakowaniowymi: takie placówki są ustawowo zobowiązane do przyjmowania zwracanych opakowań kaucyjnych, przez co generują duży i regularny wolumen opakowań do odbioru.
+- **Sieć sklepów** – co najmniej 10 sklepów działających pod wspólną marką handlową, zarządzanych przez jeden podmiot bezpośrednio lub w modelu franczyzowym i objętych wspólną polityką logistyczną. Decyzja o współpracy może więc zostać podjęta centralnie dla wszystkich placówek.
+- **Duża sieć sklepów** – sieć sklepów, która posiada co najmniej 50 placówek na terenie Krakowa i powiatu krakowskiego oraz prowadzi działalność w co najmniej 3 województwach. Placówki dużej sieci nie muszą być dużymi sklepami.
 
 ## 4. KPI
 
 - Liczba lokali objętych programem w ciągu 6 miesięcy powyżej 500
 - Liczba zebranych opakowań w ciągu 6 miesięcy powyżej 300 000
-- Liczba nawiązanych współprac z siecią sklepów powyżej 1
+- Liczba podpisanych umów o współpracy z dużą siecią sklepów w ciągu 6 miesięcy co najmniej 1, obejmujących co najmniej 50 placówek tej sieci
 
 ## 5. Główne klasy użytkowników i interesariusze
 

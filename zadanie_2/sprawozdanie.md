@@ -49,7 +49,7 @@ Wynikiem sprintu będzie PoC. Dla 150 testowych zgłoszeń z Krakowa i powiatu k
 
 ![Sprint1](./images/sprint_1.png)
 
-## 3. Definition of Dome
+## 3. Definition of Done
 
 - Kod jest w repozytorium i przeszedł code review przez co najmniej 1 inną osobę. Pull request jest zmergowany do main.
 - Pipeline CI przechodzi: lint i testy jednostkowe. Kluczowa logika jest pokryta testami.
